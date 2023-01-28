@@ -71,6 +71,8 @@ app.post("/failure", function(req, res) {
   res.redirect("/");
 });
 
+// for the terminal to display message 
+
 app.listen(3000, function() {
   console.log("Server started at port 3000");
 });
