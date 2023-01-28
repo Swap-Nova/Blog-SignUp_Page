@@ -2,10 +2,10 @@
   "name": "blog_signup-page",
   "version": "1.0.0",
   "description": "A backend application that is built upon private APIs that stores the name and e-mail of the client to subscribe them to the newsletter.",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
