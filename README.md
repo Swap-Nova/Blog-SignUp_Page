@@ -42,5 +42,26 @@ request.end();
 require('dotenv').config().
 ```
 
+<h4> Due to fail in deployment you will have to run this in your local terminal. </h4>
+
+```bash
+
+node index.js
+
+```
+
+<h3> 📄 The Webpage </h3>
+<ul>
+        <li> SignUp Page</li> <br>
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/92979885/215313689-1bc83012-0b80-40d1-ae49-b54c55786da6.png"><br>
+  
+<li> Success Page </li> <br>
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/92979885/215313872-b56e546a-5dab-4a9a-a8aa-568e65c7e1a0.png"><br>
+
+<li> Failure Page (From server side. You can redirect to the home page if failure of page occurs and retry.) </li> <br>
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/92979885/215313903-db352b52-7df5-40cd-9349-6275afd97cd0.png"><br>
+</ul>
+
+
 <hr><br>
 PS: We cannot use GitHub pages or any static content until we want to build a webpage with our own service stack and live with noisy servers 24/7.
