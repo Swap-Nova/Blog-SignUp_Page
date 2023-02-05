@@ -42,6 +42,8 @@ request.end();
 require('dotenv').config().
 ```
 
+<h3> 👉 The data is stored in the server-side in this form (is present in the subscriber list of Mailchimp): </h3>
+        <img width="1143" alt="image" src="https://user-images.githubusercontent.com/92979885/216839069-f1ffe0bc-8120-4c0a-b824-75aaebebe2da.png">
 <h4>☢️ To run this in your local terminal. </h4>
 
 ```bash
