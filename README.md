@@ -42,7 +42,7 @@ request.end();
 require('dotenv').config().
 ```
 
-<h4> Due to fail in deployment you will have to run this in your local terminal. </h4>
+<h4>☢️ Due to fail in deployment you will have to run this in your local terminal. </h4>
 
 ```bash
 
